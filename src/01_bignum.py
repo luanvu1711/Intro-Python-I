@@ -2,3 +2,9 @@
 # (try doing the same thing in the JS console and see what it outputs)
 
 # YOUR CODE HERE
+#python
+#print(pow(2,65536))
+
+#JS
+#console.log(Math.pow(2,65536))
+
